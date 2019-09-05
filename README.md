@@ -1,5 +1,3 @@
-# graphql-api-sample
-
 # request.php
 - リクエストサンプル
 - ネットから拾ったものを動かしてみた
